@@ -1,0 +1,44 @@
+  body {
+    max-width: 800px;
+    margin: 1cm auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+
+  section {
+    font-family: '', sans-serif;
+    background-color: #ffffff;
+    margin: 0;
+    padding: 0;
+  }
+
+  h1 {
+    text-align: center;
+    color: rgb(181, 224, 222);
+  }
+
+  h2 {
+    background-color: rgb(181, 224, 222);
+  }
+
+  p {
+    color: #555;
+    line-height: 1;
+  }
+
+  li {
+    color: #555;
+    line-height: 1;
+  }
+
+  img {
+    border-radius: 50%;
+    /* Torna a imagem completamente redonda */
+    display: block;
+    margin: auto;
+  }
+  table {
+     -webkit-text-stroke-color: black;
+  }
